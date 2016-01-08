@@ -18,4 +18,4 @@ Use it freely but please do not republish, distribute or sell "as-is". Please cr
 - <a href="http://vestride.github.io/Shuffle/" target="_blank">Shuffle</a>
 
 #Misc
-Follow Ahmed: [Twitter](https://twitter.com/ahmedfaruk_me), [Facebook](https://www.facebook.com/ahmedfaruk.me), [Google+](https://plus.google.com/u/0/114068300126923667161)
+Follow Ahmed: <a href="https://twitter.com/ahmedfaruk_me" target="_blank">Twitter</a>, <a href="https://www.facebook.com/ahmedfaruk.me" target="_blank">Facebook</a>, <a href="https://plus.google.com/u/0/114068300126923667161" target="_blank">Google+</a>
