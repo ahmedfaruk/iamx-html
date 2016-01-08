@@ -4,7 +4,6 @@ I AM X is a minimalist, modern and well-crafted responsive HTML5 resume template
 ![alt text](http://trendytheme.net/wp-content/uploads/edd/2015/10/Futani-Admin-Board-Preview-11.jpg "iamx")
 
 #Demo:
-[Template Demo](http://trendytheme.net/demo/iamx/v/)
 <a href="http://trendytheme.net/demo/iamx/v/" target="_blank">Template Demo</a>
 
 #License: 
