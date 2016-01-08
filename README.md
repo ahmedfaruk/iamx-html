@@ -10,12 +10,12 @@ I AM X is a minimalist, modern and well-crafted responsive HTML5 resume template
 Use it freely but please do not republish, distribute or sell "as-is". Please credit the designer and developer when you use it in your project.
 
 #Credits: 
-- [Bootstrap](http://getbootstrap.com/)
-- [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
-- [Animate.css](https://daneden.github.io/animate.css/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [Inview JS](https://github.com/protonet/jquery.inview)
-- [Shuffle](http://vestride.github.io/Shuffle/)
+- <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
+- <a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>
+- <a href="https://daneden.github.io/animate.css/" target="_blank">Animate.css</a>
+- <a href="http://dimsemenov.com/plugins/magnific-popup/" target="_blank">Magnific Popup</a>
+- <a href="https://github.com/protonet/jquery.inview" target="_blank">Inview JS</a>
+- <a href="http://vestride.github.io/Shuffle/" target="_blank">Shuffle</a>
 
 #Misc
 Follow Ahmed: [Twitter](https://twitter.com/ahmedfaruk_me), [Facebook](https://www.facebook.com/ahmedfaruk.me), [Google+](https://plus.google.com/u/0/114068300126923667161)
