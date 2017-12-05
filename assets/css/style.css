@@ -604,7 +604,13 @@ SOCIAL ICON
     border-bottom:0;
 }
 
+.biography ul li a {
+    color: #282828;
+}
 
+.biography ul li a:hover {
+    color: #68c3a3;
+}
 
 /* === Video Section === */
 
@@ -1458,19 +1464,28 @@ Icon for all respective meta
     margin-top: 15px;
 }
 
+.contact-section div {
+    text-align: center;
+}
+
 .contact-section div > i{
-    float: left;
     font-size: 45px;
-    margin-right: 20px;
 }
 .contact-section address,
 .contact-section .contact-number {
     overflow: hidden;
     line-height: 30px;
     font-weight: 400;
-    margin-bottom: 45px
+    margin-bottom: 45px;
 }
 
+.contact-section a {
+    color: #282828;
+}
+
+.contact-section a:hover {
+    color: #68c3a3;
+}
 
 /*MAP*/
 .location-map {
