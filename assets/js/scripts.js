@@ -122,7 +122,7 @@ jQuery(function ($) {
     // -------------------------------------------------------------
     // Progress Bar
     // -------------------------------------------------------------
- 
+
     $('.skill-progress').bind('inview', function(event, visible, visiblePartX, visiblePartY) {
         if (visible) {
             $.each($('div.progress-bar'),function(){
@@ -131,7 +131,7 @@ jQuery(function ($) {
             $(this).unbind('inview');
         }
     });
-    
+
     // -------------------------------------------------------------
     // More skill
     // -------------------------------------------------------------
@@ -221,9 +221,9 @@ jQuery(function ($) {
     // Vidio auto play
     // -------------------------------------------------------------
     (function () {
-    
+
     /* Vimeo API: http://developer.vimeo.com/player/js-api */
-    
+
         var iframe = document.getElementById('nofocusvideo');
         // $f == Froogaloop
         var player = $f(iframe);
@@ -247,7 +247,7 @@ jQuery(function ($) {
     $(window).load(function() {
 
         if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-         
+
         }else {
             $.stellar({
                 horizontalScrolling: false,
@@ -277,7 +277,7 @@ jQuery(function ($) {
     // -------------------------------------------------------------
 
     (function () {
-        var myLatlng = new google.maps.LatLng(41.372641, -74.687387);
+        var myLatlng = new google.maps.LatLng(34.1425, -118.2551);
 
             var styles = [
                 {
@@ -311,7 +311,7 @@ jQuery(function ($) {
             ];
 
             var mapOptions = {
-                zoom: 15,
+                zoom: 13,
                 scrollwheel: false,
                 center: myLatlng,
                 mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -324,12 +324,10 @@ jQuery(function ($) {
                 position: myLatlng,
                 map: map,
                 animation: google.maps.Animation.DROP,
-                title: 'Hello World!'
+                title: 'Home sweet home.'
             });
 
-            var contentString = '' +
-                    '' +
-                    '';
+            var contentString = "This is where I'm at!";
 
             var infowindow = new google.maps.InfoWindow({
                 content: contentString
@@ -343,8 +341,3 @@ jQuery(function ($) {
 
 
 });
-
-
-
-
-
