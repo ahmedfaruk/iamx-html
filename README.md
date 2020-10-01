@@ -20,4 +20,4 @@ Use it freely but please do not republish, distribute or sell "as-is". Please cr
 #Misc
 Follow Ahmed: <a href="https://twitter.com/ahmedfaruk_me" target="_blank">Twitter</a>, <a href="https://www.facebook.com/ahmedfaruk.me" target="_blank">Facebook</a>, <a href="https://plus.google.com/u/0/114068300126923667161" target="_blank">Google+</a>
 
-<a href="http://trendytheme.net/" target="_blank">&copy; TrendyTheme </a>
+<a href="http://trendytheme.net/" target="_blank">&copy; trendytheme </a>
