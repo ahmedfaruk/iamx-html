@@ -835,7 +835,7 @@ Resume Timeline
 .timeline>li .timeline-panel {
     float: left;
     width: 43%;
-    text-align: right;
+    /* text-align: right; */
     border: 1px solid #eee;
     position: relative;
 }
@@ -978,6 +978,7 @@ Resume Timeline
 
 .skill-progress {
     position: relative;
+    padding: 5px 0;
 }
 .progress {
     height: 10px;
@@ -1056,7 +1057,6 @@ Resume Timeline
 .chart-text span {
     font-size: 18px;
     font-weight: 400;
-    text-transform: capitalize;
     display: block;
     margin-top: 20px;
 }
